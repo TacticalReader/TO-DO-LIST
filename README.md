@@ -1,5 +1,4 @@
-# TO-DO-LIST
-Here is a detailed `README.md` for the [TacticalReader/TO-DO-LIST](https://github.com/TacticalReader/TO-DO-LIST) project:
+
 
 ***
 
